@@ -1,0 +1,3 @@
+class CamoNetCivil extends CamoNet
+{
+}
